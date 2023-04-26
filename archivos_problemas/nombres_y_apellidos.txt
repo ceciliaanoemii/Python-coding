@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Cecilia
+Apellido: Mogro
+-----------
+Nombre: Braian
+Apellido: Coronel
+-----------
+Nombre: Pablo
+Apellido: Crudo
+-----------
+Nombre: Facundo
+Apellido: Stegman
+-----------
+Nombre: Leonardo
+Apellido: DiCapo
+-----------
